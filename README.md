@@ -1,4 +1,4 @@
-# project_patterns_Elevator
+# design_patterns_Elevator
 Applying design patterns on an intelligent elevators system  
 
 Using following design patterns:  
